@@ -5,3 +5,4 @@ numpy
 pandas
 plotly
 seaborn
+dash==1.21.0
